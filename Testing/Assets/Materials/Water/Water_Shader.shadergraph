@@ -28,13 +28,13 @@
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"8c3b623b-8184-4b8a-acb1-91da06aab9a4\"\n    },\n    \"m_Name\": \"MainNormal\",\n    \"m_DefaultReferenceName\": \"Texture2D_42D9A4D3\",\n    \"m_OverrideReferenceName\": \"_MainNormal\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"instanceID\\\":0}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 3\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"8c3b623b-8184-4b8a-acb1-91da06aab9a4\"\n    },\n    \"m_Name\": \"MainNormal\",\n    \"m_DefaultReferenceName\": \"Texture2D_42D9A4D3\",\n    \"m_OverrideReferenceName\": \"_MainNormal\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"fileID\\\":2800000,\\\"guid\\\":\\\"d91e3670aa2842d478cbe3af1ea00688\\\",\\\"type\\\":3}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 3\n}"
         },
         {
             "typeInfo": {
                 "fullName": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty"
             },
-            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"b25ef0bf-70ae-4b6d-9862-011b657187f5\"\n    },\n    \"m_Name\": \"SecondNormal\",\n    \"m_DefaultReferenceName\": \"Texture2D_3D3C0AD1\",\n    \"m_OverrideReferenceName\": \"_SecondNormal\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"instanceID\\\":0}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 3\n}"
+            "JSONnodeData": "{\n    \"m_Guid\": {\n        \"m_GuidSerialized\": \"b25ef0bf-70ae-4b6d-9862-011b657187f5\"\n    },\n    \"m_Name\": \"SecondNormal\",\n    \"m_DefaultReferenceName\": \"Texture2D_3D3C0AD1\",\n    \"m_OverrideReferenceName\": \"_SecondNormal\",\n    \"m_GeneratePropertyBlock\": true,\n    \"m_Precision\": 0,\n    \"m_GPUInstanced\": false,\n    \"m_Hidden\": false,\n    \"m_Value\": {\n        \"m_SerializedTexture\": \"{\\\"texture\\\":{\\\"fileID\\\":2800000,\\\"guid\\\":\\\"0c27f66c03fb81b4a928b43b9e77ba38\\\",\\\"type\\\":3}}\",\n        \"m_Guid\": \"\"\n    },\n    \"m_Modifiable\": true,\n    \"m_DefaultType\": 3\n}"
         }
     ],
     "m_SerializedKeywords": [],
